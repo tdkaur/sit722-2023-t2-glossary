@@ -148,7 +148,7 @@ const glossaryTerms = [
         description: 'A bridge network is the default Docker network mode that establishes a private, internal network on a host. Containers connected to this network can communicate with each other and with the host, while remaining isolated from the external network, providing a level of network security and control.',
         reference: 'https://docs.docker.com/network/drivers/bridge/'
     },
-     {
+    {
         term: 'Hypertext Transfer Protocol',
         description: 'In DevOps, HTTP (Hypertext Transfer Protocol) plays a crucial role in enabling the seamless integration and communication between various components of a software delivery pipeline. It facilitates the transfer of code, artifacts, and configuration files between development, testing, and production environments.',
         reference: 'https://blog.devgenius.io/devops-in-linux-http-protocol-f5863e4f98b2'
